@@ -20,4 +20,7 @@ Analyzed Adventure Works sales dataset to uncover revenue drivers, profit leaks,
 - **Power BI**: ETL (Power Query), DAX (measures like Total Profit), slicers, AI visuals (key influencers)
 - **Skills**: Data modeling, KPIs (rev/orders/profit/returns), trends, cohorts
 
+## Live Demo
+- https://app.powerbi.com/groups/me/reports/c014bf72-7839-4a64-82ce-2d1f76361267/31b9ae6891f5f0937859?experience=power-bi
+
 Built during CCE IIT Mandi Business Analytics certification. 
